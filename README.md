@@ -17,6 +17,13 @@ Installation:
    
 How to Run:
 
+## How to Run
+
+Windows users: Double-click `play.bat`
+
+Other users: Open terminal and run:
+
+pip install -r requirements.txt
 python run_game.py
 
 How to Play:
